@@ -1,0 +1,7 @@
+fastapi
+langchain
+openai
+chromadb
+uvicorn
+langchain_community
+pypdf==4.3.1
